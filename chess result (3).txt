@@ -1,0 +1,292 @@
+YOUR TURN --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+PIECE TO MOVE :p1
+MOVE TO ROW :4
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo K2 oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Nodes reached :4699
+0-0  0-1  1-2  1-3  1-4  1-5  1-6  1-7  1-8  1-9  1-10  1-11  1-12  1-13  1-14  1-15  1-16  1-17  1-18  1-19
+YOUR TURN --
+PIECE TO MOVE :p2
+MOVE TO ROW :5
+MOVE TO COLUMN :1
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo K2 oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo K2 oo oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Nodes reached :11625
+0-0  0-1  1-2  1-3  1-4  1-5  1-6  1-7  1-8  1-9  1-10  1-11  1-12  1-13  1-14  1-15  1-16  1-17  1-18  1-19  1-20
+YOUR TURN --
+PIECE TO MOVE :p5
+MOVE TO ROW :4
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo K2 oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 K2 oo oo p5 oo oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Nodes reached :52260
+-4-0  -4-1  -4-2  -4-4  -4-5  -4-6  -4-7  -3-8  -3-15  -3-16  -3-19  1-20  1-21
+YOUR TURN --
+PIECE TO MOVE :p3
+MOVE TO ROW :5
+MOVE TO COLUMN :2
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 K2 oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Nodes reached :70662
+-3-0  -2-1  -1-20  -1-21
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :3
+MOVE TO COLUMN :7
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo qq
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo oo oo oo oo qq
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Nodes reached :93372
+0-0  0-2  0-3  0-4  0-5  0-6  0-8  0-10  0-11
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :3
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Nodes reached :122426
+0-0  0-2  0-3  0-4  0-5  0-7  0-8  0-9  0-10  0-13  0-14  0-17  0-19
+YOUR TURN --
+PIECE TO MOVE :k1
+MOVE TO ROW :5
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 k1 p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 oo R1 B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 k1 p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Nodes reached :164138
+0-0  0-2  0-3  0-5  0-7  0-8  0-9  0-10  0-11  0-13  0-14  0-17  0-19  0-20
+YOUR TURN --
+PIECE TO MOVE :k1
+MOVE TO ROW :4
+MOVE TO COLUMN :2
+
+  0  1  2  3  4  5  6  7
+0 oo R1 B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo k1 oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq oo oo oo oo
+4 p1 oo k1 oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Nodes reached :196892
+0-0  0-1  1-2  1-3  1-4  1-6  1-7  1-8  1-9  1-10  1-14  1-17  1-18
+YOUR TURN --
+PIECE TO MOVE :k1
+MOVE TO ROW :3
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq k1 oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 oo R1 B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo qq k1 oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Nodes reached :235226
+-1000-0  -1000-1  -1000-2  -1-3  0-13  0-16  0-18  0-19
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :1
+MOVE TO COLUMN :5
+
+  0  1  2  3  4  5  6  7
+0 oo R1 B1 QQ MM B2 R2 oo
+1 P1 P2 P3 P4 P5 qq P7 P8
+2 K2 oo K1 oo oo oo oo oo
+3 oo oo oo oo k1 oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 oo p2 p3 oo oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+ ------------ YOU WIN ------------
+
+--------------------------------
+Process exited after 584.7 seconds with return value 0
+Press any key to continue . . .

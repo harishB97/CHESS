@@ -1,0 +1,325 @@
+YOUR TURN --
+
+R K B Q M B K R
+P P P P P P P P
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+p p p p p p p p
+r k b q m b k r
+
+PIECE TO MOVE :5
+MOVE TO ROW :4
+MOVE TO COLUMN :4
+
+R K B Q M B K R
+P P P P P P P P
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 p 0 0 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b q m b k r
+
+COMPUTER --
+
+R 0 B Q M B K R
+P P P P P P P P
+K 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 p 0 0 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b q m b k r
+
+YOUR TURN --
+PIECE TO MOVE :14
+MOVE TO ROW :3
+MOVE TO COLUMN :1
+
+R 0 B Q M B K R
+P P P P P P P P
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+0 0 0 0 p 0 0 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b q m 0 k r
+
+COMPUTER --
+
+R 0 B Q M B 0 R
+P P P P P P P P
+K 0 0 0 0 0 0 K
+0 b 0 0 0 0 0 0
+0 0 0 0 p 0 0 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b q m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :12
+MOVE TO ROW :3
+MOVE TO COLUMN :7
+
+R 0 B Q M B 0 R
+P P P P P P P P
+K 0 0 0 0 0 0 K
+0 b 0 0 0 0 0 q
+0 0 0 0 p 0 0 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+COMPUTER --
+
+R 0 B Q M B 0 R
+P P P P P P P P
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 q
+0 0 0 0 p 0 K 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :12
+MOVE TO ROW :4
+MOVE TO COLUMN :6
+
+R 0 B Q M B 0 R
+P P P P P P P P
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+0 0 0 0 p 0 q 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+COMPUTER --
+
+R 0 B Q M B 0 R
+P P P P P P P 0
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 P
+0 0 0 0 p 0 q 0
+0 0 0 0 0 0 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :12
+MOVE TO ROW :5
+MOVE TO COLUMN :5
+
+R 0 B Q M B 0 R
+P P P P P P P 0
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 P
+0 0 0 0 p 0 0 0
+0 0 0 0 0 q 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+COMPUTER --
+
+R 0 B Q M B 0 R
+P P P P P P P 0
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+0 0 0 0 p 0 0 P
+0 0 0 0 0 q 0 0
+p p p p 0 p p p
+r k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :1
+MOVE TO ROW :4
+MOVE TO COLUMN :0
+
+R 0 B Q M B 0 R
+P P P P P P P 0
+K 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 0 P
+0 0 0 0 0 q 0 0
+0 p p p 0 p p p
+r k b 0 m 0 k r
+
+COMPUTER --
+
+R K B Q M B 0 R
+P P P P P P P 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 0 P
+0 0 0 0 0 q 0 0
+0 p p p 0 p p p
+r k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :9
+MOVE TO ROW :5
+MOVE TO COLUMN :0
+
+R K B Q M B 0 R
+P P P P P P P 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 0 P
+r 0 0 0 0 q 0 0
+0 p p p 0 p p p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R K B Q M B 0 R
+P P P P P P P 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 0 0
+r 0 0 0 0 q 0 P
+0 p p p 0 p p p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :7
+MOVE TO ROW :5
+MOVE TO COLUMN :7
+
+R K B Q M B 0 R
+P P P P P P P 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 0 0
+r 0 0 0 0 q 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R K B Q M B 0 R
+P P P P P P 0 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 P 0
+p 0 0 0 p 0 0 0
+r 0 0 0 0 q 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :9
+MOVE TO ROW :5
+MOVE TO COLUMN :3
+
+R K B Q M B 0 R
+P P P P P P 0 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 P 0
+p 0 0 0 p 0 0 0
+0 0 0 r 0 q 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R K B Q M B 0 R
+P P P P P P 0 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 P 0
+0 0 0 r 0 q 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :12
+MOVE TO ROW :4
+MOVE TO COLUMN :6
+
+R K B Q M B 0 R
+P P P P P P 0 0
+0 0 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 q 0
+0 0 0 r 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R K B Q M B 0 R
+P 0 P P P P 0 0
+0 P 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 q 0
+0 0 0 r 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :9
+MOVE TO ROW :1
+MOVE TO COLUMN :3
+
+R K B Q M B 0 R
+P 0 P r P P 0 0
+0 P 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 q 0
+0 0 0 0 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R K 0 Q M B 0 R
+P 0 P B P P 0 0
+0 P 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p 0 q 0
+0 0 0 0 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :12
+MOVE TO ROW :4
+MOVE TO COLUMN :5
+
+R K 0 Q M B 0 R
+P 0 P B P P 0 0
+0 P 0 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p q 0 0
+0 0 0 0 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --
+
+R 0 0 Q M B 0 R
+P 0 P B P P 0 0
+0 P K 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p q 0 0
+0 0 0 0 0 0 0 p
+0 p p p 0 p 0 p
+0 k b 0 m 0 k r
+
+YOUR TURN --
+PIECE TO MOVE :2
+MOVE TO ROW :5
+MOVE TO COLUMN :1
+
+R 0 0 Q M B 0 R
+P 0 P B P P 0 0
+0 P K 0 0 0 0 0
+0 b 0 0 0 0 0 0
+p 0 0 0 p q 0 0
+0 p 0 0 0 0 0 p
+0 0 p p 0 p 0 p
+0 k b 0 m 0 k r
+
+COMPUTER --  FAILED --

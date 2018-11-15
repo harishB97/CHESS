@@ -1,0 +1,404 @@
+ENDED;
+
+CHESS 2
+YOUR TURN --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 0
+PIECE TO MOVE :p1
+MOVE TO ROW :4
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 1
+check m4
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 2
+Nodes reached :440
+321-0  330-0  318-0  309-0  317-0  305-0  455-0  447-0  322-0  313-0  314-0  301-0  325-0  329-0  310-0  456-0  302-0  326-0  448-0  306--1
+YOUR TURN --
+PIECE TO MOVE :r1
+MOVE TO ROW :5
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 oo k1 b1 qq mm b2 k2 r2
+
+Ply count: 3
+check m4
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 P1 P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo oo QQ oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo oo oo oo oo
+6 oo p2 p3 p4 p5 p6 p7 p8
+7 oo k1 b1 qq mm b2 k2 r2
+
+Ply count: 4
+Nodes reached :830
+504-1  506-1  440-1  441-1  306-1  505-1  448-0  321-0  330-0  322-0  460-0  314-0  442-0  503-0  326-0  518-0  439-0  309-0  0-0  305-0  329-0  325-0  455-0  456-0  313-0  447-0  317-0  302-0  301-0  438-0
+YOUR TURN --
+PIECE TO MOVE :p5
+MOVE TO ROW :5
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 P1 P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo oo QQ oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo p5 oo oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 oo k1 b1 qq mm b2 k2 r2
+
+Ply count: 5
+check m4
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo QQ oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo p5 oo oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 oo k1 b1 qq mm b2 k2 r2
+
+Ply count: 6
+Nodes reached :1312
+301-1  439-1  476-1  302-1  317-1  482-1  313-1  306-1  448-1  305-1  310-1  468-1  325-1  478-1  518-1  326-1  309-1  477-1  438-1  520-1  314-1  442-1  483-1  329-1  330-1  460-1  447-1  504-1  503-1  440-1  455-1  441-1  496-0  497-0  475-0  471--7  0-0  479--8  470--8
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :5
+MOVE TO COLUMN :5
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo QQ oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo p5 qq oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 oo k1 b1 oo mm b2 k2 r2
+
+Ply count: 7
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo QQ oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo oo
+5 r1 oo oo oo p5 qq oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 oo k1 b1 oo mm b2 k2 r2
+
+Ply count: 8
+Nodes reached :1459
+442-4  470-4  478-1  504-1  483-1  503-1  482-1  476-1  496-0  475-0  497-0  518--1  309--1  455--1  317--1  441--1  439--1  330--1  520--1  310--1  477--1  460--1  313--1  314--1  329--1  301--1  306--1  340--1  326--1  305--1  440--1  325--1  447--1  438--1  0-0  469--8
+YOUR TURN --
+PIECE TO MOVE :p8
+MOVE TO ROW :4
+MOVE TO COLUMN :7
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo QQ oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo oo p5 qq oo oo
+6 oo p2 p3 p4 oo p6 p7 oo
+7 oo k1 b1 oo mm b2 k2 r2
+
+Ply count: 9
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo oo p5 qq oo oo
+6 oo p2 QQ p4 oo p6 p7 oo
+7 oo k1 b1 oo mm b2 k2 r2
+
+Ply count: 10
+Nodes reached :1642
+513-5  317-5  330-1  310-1  340-1  314-1  329-1  309-1  518-1  441-1  321-1  482-1  439-1  440-1  447-1  301-1  322-1  479-1  442-1  455-1  520-1  456-1  460-1  313-1  477-1  438-1  476-0  475--1  478--1  306--1  305--1  471--7  511--8  510--8  470--8  469--8  503--8  468--8  469--8
+YOUR TURN --
+PIECE TO MOVE :p4
+MOVE TO ROW :5
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo p4 p5 qq oo oo
+6 oo p2 QQ oo oo p6 p7 oo
+7 oo k1 b1 oo mm b2 k2 r2
+
+Ply count: 11
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo p4 p5 qq oo oo
+6 oo p2 oo oo oo p6 p7 oo
+7 oo k1 QQ oo mm b2 k2 r2
+
+Ply count: 12
+Nodes reached :1440
+468-9  510-7  441-5  447-4  313-4  438-4  455-4  442-4  309-4  322-4  440-4  301-4  340-4  330-4  329-4  317-4  463-4  325-4  310-4  520-4  518-4  460-4  456-4  314-4  439-4  326-4  321-4  305--1  464--1  306--1  484--7  475--7  482--8  462--8  503--8  483--8  497--12  489--12  496--13  461--13
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :6
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo p4 p5 qq oo oo
+6 oo p2 oo oo mm p6 p7 oo
+7 oo k1 QQ oo oo b2 k2 r2
+
+Ply count: 13
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 r1 oo oo p4 p5 qq oo oo
+6 oo p2 oo oo mm p6 p7 oo
+7 oo QQ oo oo oo b2 k2 r2
+
+Ply count: 14
+Nodes reached :1179
+475-7  496-6  461-5  518-4  439-4  438-4  520-4  447-4  301-4  329-4  313-4  440-4  442-4  321-4  441-4  326-4  340-4  455-4  330-4  310-4  314-4  456-4  317-4  460-4  322-4  309-4  325-4  464-1  305--1  465--1  306--1  484--4  490--7  463--8  482--8  483--8  489--8  462--13
+YOUR TURN --
+PIECE TO MOVE :r1
+MOVE TO ROW :5
+MOVE TO COLUMN :1
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 oo r1 oo p4 p5 qq oo oo
+6 oo p2 oo oo mm p6 p7 oo
+7 oo QQ oo oo oo b2 k2 r2
+
+Ply count: 15
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 oo r1 oo p4 p5 qq oo oo
+6 oo p2 QQ oo mm p6 p7 oo
+7 oo oo oo oo oo b2 k2 r2
+
+Ply count: 16
+Nodes reached :1012
+489-5  440-4  310-4  482-4  439-4  301-4  313-4  447-4  455-4  329-4  321-4  340-4  460-4  309-4  325-4  475-4  518-4  330-4  456-4  438-4  322-3  317-3  520-3  326-3  314-3  496-1  441--1  442--1  306--2  305--2  485--9  490--12  461--12  483--13  484--13
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :7
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 oo r1 oo p4 p5 qq oo oo
+6 oo p2 QQ oo oo p6 p7 oo
+7 oo oo oo oo mm b2 k2 r2
+
+Ply count: 17
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo oo oo oo p8
+5 oo QQ oo p4 p5 qq oo oo
+6 oo p2 oo oo oo p6 p7 oo
+7 oo oo oo oo mm b2 k2 r2
+
+Ply count: 18
+Nodes reached :1285
+496-6  321-4  326-4  456-4  329-4  440-4  510-4  438-4  447-4  325-4  330-4  439-4  317-4  468-4  322-4  455-4  314-4  520-4  340-4  313-1  460-1  301-1  309-1  518-1  310-1  463-1  306--1  464--1  305--1  442--4  441--4  489--12  484--12  475--12  482--13  503--13  462--13  461--13  461--13
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :4
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo qq oo oo p8
+5 oo QQ oo p4 p5 oo oo oo
+6 oo p2 oo oo oo p6 p7 oo
+7 oo oo oo oo mm b2 k2 r2
+
+Ply count: 19
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo qq oo oo p8
+5 oo oo oo p4 p5 oo oo oo
+6 oo QQ oo oo oo p6 p7 oo
+7 oo oo oo oo mm b2 k2 r2
+
+Ply count: 20
+Nodes reached :1182
+468-2  439-1  447-1  313-1  441-1  321-1  329-0  438-0  460-0  310-0  314-0  520-0  503-0  340-0  330-0  456-0  440-0  510-0  455-0  325-0  491-0  301-0  518-0  326-0  309-0  463-0  322-0  461--1  442--4  305--5  306--5  496--12  483--12  462--12  475--12  504--13  483--12  490--13  482--13
+YOUR TURN --
+PIECE TO MOVE :b2
+MOVE TO ROW :6
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 oo oo oo qq oo oo p8
+5 oo oo oo p4 p5 oo oo oo
+6 oo QQ oo oo b2 p6 p7 oo
+7 oo oo oo oo mm oo k2 r2
+
+Ply count: 21
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 B2 oo oo qq oo oo p8
+5 oo oo oo p4 p5 oo oo oo
+6 oo QQ oo oo b2 p6 p7 oo
+7 oo oo oo oo mm oo k2 r2
+
+Ply count: 22
+Nodes reached :1247
+456-4  441-4  503-4  468-3  322-3  510-3  314-3  439-1  455-1  520-1  442-1  438-1  475-1  340-1  447-1  313-1  326-1  301-1  440-1  489-1  460-1  329-1  325-1  309-1  310-1  330-1  321-1  482-1  518-1  496-0  461-0  464-0  462--1  305--2  306--2  484--9  490--12  463--12  483--13
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :7
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 B2 oo oo qq oo oo p8
+5 oo oo oo p4 p5 oo oo oo
+6 oo QQ oo oo b2 p6 p7 oo
+7 oo oo oo mm oo oo k2 r2
+
+Ply count: 23
+check m3
+COMPUTER --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 P1 oo oo oo oo oo oo oo
+3 oo oo oo oo P5 oo oo oo
+4 p1 B2 oo oo qq oo oo p8
+5 oo oo oo p4 p5 oo oo oo
+6 oo oo oo QQ b2 p6 p7 oo
+7 oo oo oo mm oo oo k2 r2
+
+Ply count: 24
+Nodes reached :1265
+483-995  468-995  456-4  510-3  322-3  314-3  309-1  313-1  325-1  520-1  329-1  419-1  424-1  461-1  431-1  519-1  432-1  417-1  418-1  301-1  518-1  321-1  455-1  460-1  489-1  330-1  326-1  310-1  438-1  447-1  340-1  420-1  496-0  475--1  433--1  306--2  305--2  484--9  490--12  503--13  0-0
+------------ COMPUTER WINS ------------
+
+--------------------------------
+Process exited after 668.8 seconds with return value 0
+Press any key to continue . . .
