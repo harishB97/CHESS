@@ -1,0 +1,603 @@
+YOUR TURN --
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo oo oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 p5 p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 0
+PIECE TO MOVE :p5
+MOVE TO ROW :4
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 K1 B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo p5 oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 1
+
+
+COMPUTER --
+447-(1)  305-(1)  309-(1)  325-(1)  456-(1)  318-(1)  317-(1)  310-(1)  314-(1)  330-(0)  329-(0)  313-(0)  302-(0)  326-(0)  322-(0)  301-(0)  321-(0)  455-(0)  448-(0)  306-(0)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo p5 oo oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 qq mm b2 k2 r2
+
+Ply count: 2
+Nodes reached: 425351 ; Nodes reachedAB: 4941
+447-(1)  305-(-600)  309-(-600)  325-(-600)  456-(-600)  318-(-600)  317-(-600)  310-(-600)  314-(-600)  330-(-600)  329-(-600)  313-(-600)  302-(-600)  326-(-600)  322-(-600)  301-(-600)  321-(-600)  455-(-600)  448-(-600)  306-(-600)   END
+MOVELABEL: 447 ; MOVEVALUE: 1 ; PIECE MOVED: K1
+TIME TAKEN: 78 s
+
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :4
+MOVE TO COLUMN :6
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo oo oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo p5 oo qq oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 3
+
+
+COMPUTER --
+314-(1)  456-(1)  329-(1)  330-(1)  313-(1)  455-(1)  325-(1)  301-(1)  318-(1)  447-(1)  302-(1)  305-(1)  317-(1)  448-(1)  354-(1)  452-(0)  446-(0)  321-(0)  306-(0)  450-(0)  326-(0)  322-(0)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo K2 oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo p5 oo qq oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 4
+Nodes reached: 825707 ; Nodes reachedAB: 17689
+314-(0)  456-(1)  329-(-600)  330-(-600)  313-(-600)  455-(-600)  325-(-600)  301-(-600)  318-(-600)  447-(-600)  302-(-600)  305-(-600)  317-(-600)  448-(-600)  354-(-600)  452-(-600)  446-(-600)  321-(-600)  306-(-600)  450-(-600)  326-(-600)  322-(-600)   END
+MOVELABEL: 456 ; MOVEVALUE: 1 ; PIECE MOVED: K2
+TIME TAKEN: 158 s
+
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :4
+MOVE TO COLUMN :5
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 P1 P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo K2 oo oo
+3 oo oo oo oo oo oo oo oo
+4 oo oo oo oo p5 qq oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 5
+
+
+COMPUTER --
+302-(1)  375-(1)  305-(1)  453-(1)  448-(1)  447-(1)  326-(1)  301-(1)  318-(1)  458-(1)  313-(1)  317-(1)  354-(1)  329-(1)  325-(1)  330-(1)  306-(0)  314-(0)  452-(0)  446-(0)  455-(-3)  450-(-3)  456-(-3)  460-(-4)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo K2 oo oo
+3 P1 oo oo oo oo oo oo oo
+4 oo oo oo oo p5 qq oo oo
+5 oo oo oo oo oo oo oo oo
+6 p1 p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 6
+Nodes reached: 916186 ; Nodes reachedAB: 13271
+302-(1)  375-(-600)  305-(-600)  453-(-600)  448-(-600)  447-(-600)  326-(-600)  301-(-600)  318-(-600)  458-(-600)  313-(-600)  317-(-600)  354-(-600)  329-(-600)  325-(-600)  330-(-600)  306-(-600)  314-(-600)  452-(-600)  446-(-600)  455-(-600)  450-(-600)  456-(-599)  460-(-600)   END
+MOVELABEL: 302 ; MOVEVALUE: 1 ; PIECE MOVED: P1
+TIME TAKEN: 178 s
+
+YOUR TURN --
+PIECE TO MOVE :p1
+MOVE TO ROW :4
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 oo R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo K2 oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 qq oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 7
+
+
+COMPUTER --
+453-(1)  448-(1)  317-(1)  326-(1)  458-(1)  354-(1)  305-(1)  329-(1)  313-(1)  325-(1)  375-(1)  447-(1)  340-(1)  318-(1)  330-(1)  446-(0)  306-(0)  314-(0)  451-(0)  341-(-1)  455-(-3)  460-(-3)  450-(-3)  456-(-3)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 qq oo oo
+5 oo oo oo oo oo oo oo oo
+6 oo p2 p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 8
+Nodes reached: 914962 ; Nodes reachedAB: 16215
+453-(1)  448-(-600)  317-(-600)  326-(-600)  458-(-600)  354-(-600)  305-(-600)  329-(-600)  313-(-600)  325-(-600)  375-(-600)  447-(-600)  340-(-600)  318-(-600)  330-(-600)  446-(-600)  306-(-600)  314-(-600)  451-(-600)  341-(-600)  455-(-600)  460-(-600)  450-(-600)  456-(-599)   END
+MOVELABEL: 453 ; MOVEVALUE: 1 ; PIECE MOVED: K2
+TIME TAKEN: 206 s
+
+YOUR TURN --
+PIECE TO MOVE :p2
+MOVE TO ROW :5
+MOVE TO COLUMN :1
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo K1 oo oo oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 qq oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 9
+
+
+COMPUTER --
+447-(1)  325-(1)  318-(1)  317-(1)  448-(1)  456-(1)  326-(0)  340-(0)  451-(0)  354-(0)  305-(0)  313-(0)  446-(0)  455-(0)  306-(0)  329-(0)  314-(0)  321-(0)  330-(0)  322-(0)  341-(-2)  450-(-3)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 qq oo oo
+5 oo p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 k1 b1 oo mm b2 k2 r2
+
+Ply count: 10
+Nodes reached: 836425 ; Nodes reachedAB: 24485
+447-(1)  325-(-600)  318-(-600)  317-(-600)  448-(-600)  456-(-600)  326-(-600)  340-(-600)  451-(-600)  354-(-600)  305-(-600)  313-(-600)  446-(-600)  455-(-600)  306-(-600)  329-(-600)  314-(-600)  321-(-600)  330-(-600)  322-(-600)  341-(-600)  450-(-600)   END
+MOVELABEL: 447 ; MOVEVALUE: 1 ; PIECE MOVED: K1
+TIME TAKEN: 182 s
+
+YOUR TURN --
+PIECE TO MOVE :k1
+MOVE TO ROW :5
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 P5 P6 P7 P8
+2 oo oo oo oo oo oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 qq oo oo
+5 k1 p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Ply count: 11
+
+
+COMPUTER --
+446-(1)  305-(1)  317-(1)  314-(1)  313-(1)  321-(1)  309-(1)  445-(0)  322-(0)  306-(0)  354-(0)  310-(0)  330-(0)  455-(0)  329-(0)  340-(0)  456-(0)  341-(-1)  452-(-1)  318-(-1)  447-(-2)  449-(-2)  448-(-3)  326-(-3)  325-(-3)  450-(-4)  451-(-4)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 qq oo oo
+5 k1 p2 oo oo oo oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Ply count: 12
+Nodes reached: 1117375 ; Nodes reachedAB: 52182
+446-(1)  305-(-600)  317-(2)  314-(-600)  313-(-600)  321-(-600)  309-(-600)  445-(-600)  322-(-600)  306-(-600)  354-(-600)  310-(-600)  330-(-600)  455-(-600)  329-(-600)  340-(-600)  456-(-600)  341-(-600)  452-(-599)  318-(-600)  447-(-600)  449-(-600)  448-(-599)  326-(-600)  325-(-600)  450-(-600)  451-(-600)   END
+MOVELABEL: 317 ; MOVEVALUE: 2 ; PIECE MOVED: P5
+TIME TAKEN: 193 s
+
+YOUR TURN --
+PIECE TO MOVE :qq
+MOVE TO ROW :5
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM B2 K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 oo oo oo
+5 k1 p2 oo oo qq oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Ply count: 13
+
+
+COMPUTER --
+442-(2)  504-(1)  440-(1)  446-(1)  310-(0)  317-(0)  452-(0)  449-(-1)  439-(-1)  321-(-1)  503-(-1)  447-(-1)  460-(-1)  309-(-2)  455-(-2)  506-(-2)  326-(-2)  322-(-2)  456-(-2)  354-(-2)  330-(-2)  441-(-2)  314-(-2)  306-(-2)  325-(-2)  448-(-2)  438-(-2)  329-(-2)  305-(-2)  313-(-3)  341-(-3)  450-(-3)  451-(-3)  340-(-4)  518-(-4)  505-(-10)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 oo oo oo
+5 B2 p2 oo oo qq oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 r1 oo b1 oo mm b2 k2 r2
+
+Ply count: 14
+Nodes reached: 1780550 ; Nodes reachedAB: 24226
+442-(7)  504-(-600)  440-(-600)  446-(-600)  310-(-600)  317-(-600)  452-(-599)  449-(-600)  439-(-600)  321-(-600)  503-(-600)  447-(-600)  460-(-600)  309-(-600)  455-(-600)  506-(-600)  326-(-600)  322-(-600)  456-(-600)  354-(-600)  330-(-600)  441-(-600)  314-(-600)  306-(-600)  325-(-600)  448-(-599)  438-(-600)  329-(-600)  305-(-600)  313-(-600)  341-(-600)  450-(-600)  451-(-600)  340-(-600)  518-(-600)  505-(-600)   END
+MOVELABEL: 442 ; MOVEVALUE: 7 ; PIECE MOVED: B2
+TIME TAKEN: 352 s
+
+YOUR TURN --
+PIECE TO MOVE :r1
+MOVE TO ROW :5
+MOVE TO COLUMN :0
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo K1 p5 oo oo oo
+5 r1 p2 oo oo qq oo oo oo
+6 oo oo p3 p4 oo p6 p7 p8
+7 oo oo b1 oo mm b2 k2 r2
+
+Ply count: 15
+
+
+COMPUTER --
+448-(9)  504-(1)  310-(1)  503-(1)  317-(1)  446-(0)  452-(-2)  456-(-3)  305-(-3)  313-(-3)  449-(-3)  322-(-3)  447-(-3)  330-(-3)  314-(-3)  451-(-3)  329-(-3)  354-(-3)  309-(-3)  519-(-3)  455-(-3)  506-(-3)  450-(-3)  306-(-3)  325-(-4)  321-(-4)  518-(-4)  341-(-4)  460-(-4)  326-(-4)  340-(-5)  505-(-7)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo qq oo oo oo
+6 oo oo K1 p4 oo p6 p7 p8
+7 oo oo b1 oo mm b2 k2 r2
+
+Ply count: 16
+Nodes reached: 1225225 ; Nodes reachedAB: 50744
+448-(6)  504-(-600)  310-(-600)  503-(-600)  317-(-600)  446-(-600)  452-(-599)  456-(-600)  305-(-600)  313-(-600)  449-(-600)  322-(-600)  447-(-600)  330-(-600)  314-(-600)  451-(-600)  329-(-600)  354-(-600)  309-(-600)  519-(-600)  455-(-600)  506-(-600)  450-(-600)  306-(-600)  325-(-600)  321-(-600)  518-(-600)  341-(-600)  460-(-600)  326-(-600)  340-(-600)  505-(-600)   END
+MOVELABEL: 448 ; MOVEVALUE: 6 ; PIECE MOVED: K1
+TIME TAKEN: 249 s
+
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :7
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo qq oo oo oo
+6 oo oo K1 p4 oo p6 p7 p8
+7 oo oo b1 mm oo b2 k2 r2
+
+Ply count: 17
+
+
+COMPUTER --
+449-(9)  451-(2)  341-(0)  446-(0)  317-(-3)  330-(-3)  455-(-3)  325-(-3)  450-(-3)  326-(-3)  456-(-3)  503-(-3)  322-(-3)  445-(-3)  306-(-3)  305-(-3)  519-(-3)  354-(-3)  504-(-3)  314-(-3)  506-(-3)  309-(-3)  329-(-3)  313-(-3)  452-(-3)  310-(-3)  460-(-4)  518-(-4)  321-(-4)  340-(-5)  505-(-9)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo K1 oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 oo oo b1 mm oo b2 k2 r2
+
+Ply count: 18
+Nodes reached: 1314988 ; Nodes reachedAB: 20724
+449-(9)  451-(-595)  341-(-600)  446-(-600)  317-(-600)  330-(-600)  455-(-600)  325-(-600)  450-(-600)  326-(-600)  456-(-600)  503-(-600)  322-(-600)  445-(-600)  306-(-600)  305-(-600)  519-(-600)  354-(-600)  504-(-600)  314-(-600)  506-(-600)  309-(-600)  329-(-600)  313-(-600)  452-(-600)  310-(-600)  460-(-600)  518-(-600)  321-(-600)  340-(-600)  505-(-600)   END
+MOVELABEL: 449 ; MOVEVALUE: 9 ; PIECE MOVED: K1
+TIME TAKEN: 254 s
+
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :6
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 QQ MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo K1 oo oo oo
+6 oo oo oo p4 mm p6 p7 p8
+7 oo oo b1 oo oo b2 k2 r2
+
+Ply count: 19
+
+
+COMPUTER --
+449-(1)  447-(1)  452-(1)  450-(0)  505-(0)  503-(0)  446-(-3)  310-(-3)  451-(-3)  305-(-3)  341-(-3)  322-(-3)  445-(-3)  340-(-3)  456-(-3)  313-(-3)  506-(-3)  325-(-3)  448-(-3)  330-(-3)  329-(-3)  309-(-3)  306-(-3)  455-(-3)  326-(-3)  354-(-3)  504-(-3)  519-(-3)  314-(-3)  317-(-3)  518-(-4)  460-(-4)  321-(-4)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo QQ oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo K1 oo oo oo
+6 oo oo oo p4 mm p6 p7 p8
+7 oo oo b1 oo oo b2 k2 r2
+
+Ply count: 20
+Nodes reached: 497895 ; Nodes reachedAB: 16204
+449-(1)  447-(-596)  452-(-600)  450-(-599)  505-(4)  503-(-600)  446-(-600)  310-(-600)  451-(-600)  305-(-600)  341-(-600)  322-(-600)  445-(-600)  340-(-600)  456-(-600)  313-(-600)  506-(-600)  325-(-600)  448-(-600)  330-(-600)  329-(-600)  309-(-600)  306-(-600)  455-(-600)  326-(-600)  354-(-600)  504-(-600)  519-(-600)  314-(-600)  317-(-600)  518-(-600)  460-(-600)  321-(-600)   END
+MOVELABEL: 505 ; MOVEVALUE: 4 ; PIECE MOVED: QQ
+TIME TAKEN: 90 s
+
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :5
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo QQ oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo mm K1 oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 oo oo b1 oo oo b2 k2 r2
+
+Ply count: 21
+
+
+COMPUTER --
+447-(6)  478-(4)  449-(4)  450-(2)  497-(1)  452-(1)  476-(1)  510-(1)  448-(1)  354-(0)  341-(0)  460-(0)  306-(0)  313-(0)  309-(0)  518-(0)  330-(0)  455-(0)  456-(0)  305-(0)  329-(0)  519-(0)  321-(0)  482-(0)  340-(0)  520-(0)  325-(-1)  446-(-2)  445-(-2)  468-(-3)  461-(-3)  451-(-3)  317-(-3)  310-(-3)  498-(-3)  496-(-3)  314-(-3)  322-(-3)  503-(-3)  489-(-3)  470-(-8)  479-(-8)  469-(-8)  477-(-9)  475-(-9)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo QQ oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo mm oo oo oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 oo oo b1 oo oo K1 k2 r2
+
+Ply count: 22
+Nodes reached: 884909 ; Nodes reachedAB: 7381
+447-(8)  478-(-600)  449-(-600)  450-(-599)  497-(-600)  452-(-600)  476-(-600)  510-(-600)  448-(-600)  354-(-600)  341-(-600)  460-(-600)  306-(-600)  313-(-600)  309-(-600)  518-(-600)  330-(-600)  455-(-600)  456-(-600)  305-(-600)  329-(-600)  519-(-600)  321-(-600)  482-(-600)  340-(-600)  520-(-600)  325-(-600)  446-(-600)  445-(-600)  468-(-600)  461-(-600)  451-(-600)  317-(-600)  310-(-600)  498-(-600)  496-(-600)  314-(-600)  322-(-600)  503-(-600)  489-(-600)  470-(-599)  479-(-600)  469-(-600)  477-(-600)  475-(-600)   END
+MOVELABEL: 447 ; MOVEVALUE: 8 ; PIECE MOVED: K1
+TIME TAKEN: 179 s
+
+YOUR TURN --
+PIECE TO MOVE :k2
+MOVE TO ROW :5
+MOVE TO COLUMN :5
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo QQ oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo mm oo k2 oo oo
+6 oo oo oo p4 oo p6 p7 p8
+7 oo oo b1 oo oo K1 oo r2
+
+Ply count: 23
+
+
+COMPUTER --
+470-(5)  497-(1)  510-(1)  478-(1)  482-(0)  468-(-1)  461-(-2)  498-(-3)  489-(-3)  496-(-3)  445-(-8)  306-(-12)  446-(-12)  449-(-12)  314-(-12)  341-(-12)  305-(-12)  322-(-12)  451-(-12)  512-(-13)  310-(-13)  329-(-13)  321-(-13)  520-(-14)  476-(-14)  354-(-14)  455-(-14)  519-(-14)  325-(-14)  503-(-14)  460-(-14)  309-(-14)  313-(-14)  456-(-14)  518-(-14)  317-(-14)  330-(-14)  340-(-14)  475-(-15)  477-(-15)  511-(-16)  479-(-16)  469-(-16)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo mm oo k2 oo oo
+6 oo oo oo p4 oo p6 QQ p8
+7 oo oo b1 oo oo K1 oo r2
+
+Ply count: 24
+Nodes reached: 939681 ; Nodes reachedAB: 18084
+470-(4)  497-(-600)  510-(-600)  478-(-600)  482-(-600)  468-(-600)  461-(-600)  498-(-600)  489-(-600)  496-(-600)  445-(-600)  306-(-600)  446-(-600)  449-(-599)  314-(-600)  341-(-600)  305-(-600)  322-(-600)  451-(-599)  512-(-599)  310-(-600)  329-(-600)  321-(-600)  520-(-600)  476-(-600)  354-(-600)  455-(-600)  519-(-600)  325-(-600)  503-(-600)  460-(-600)  309-(-600)  313-(-600)  456-(-600)  518-(-600)  317-(-600)  330-(-600)  340-(-600)  475-(-600)  477-(-600)  511-(-600)  479-(-600)  469-(-600)   END
+MOVELABEL: 470 ; MOVEVALUE: 4 ; PIECE MOVED: QQ
+TIME TAKEN: 177 s
+
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :6
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo p4 mm p6 QQ p8
+7 oo oo b1 oo oo K1 oo r2
+
+Ply count: 25
+
+
+COMPUTER --
+503-(6)  445-(4)  305-(1)  451-(1)  306-(1)  322-(0)  341-(0)  314-(0)  462-(0)  449-(0)  464-(0)  456-(0)  310-(-1)  317-(-1)  489-(-1)  309-(-1)  455-(-1)  446-(-1)  519-(-1)  520-(-1)  313-(-1)  518-(-1)  330-(-1)  329-(-1)  340-(-1)  325-(-1)  460-(-1)  321-(-1)  326-(-1)  354-(-1)  482-(-13)  496-(-13)  463-(-14)  475-(-15)  468-(-16)  461-(-16)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo oo p5 oo oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo p4 mm p6 oo p8
+7 oo oo b1 oo oo K1 oo QQ
+
+Ply count: 26
+Nodes reached: 611409 ; Nodes reachedAB: 6615
+503-(6)  445-(-600)  305-(-600)  451-(-599)  306-(-600)  322-(-600)  341-(-600)  314-(-600)  462-(-600)  449-(-599)  464-(-600)  456-(-600)  310-(-600)  317-(-600)  489-(-600)  309-(-600)  455-(-600)  446-(-600)  519-(-600)  520-(-600)  313-(-600)  518-(-600)  330-(-600)  329-(-600)  340-(-600)  325-(-600)  460-(-600)  321-(-600)  326-(-600)  354-(-600)  482-(-599)  496-(-597)  463-(-600)  475-(-599)  468-(-600)  461-(-600)   END
+MOVELABEL: 503 ; MOVEVALUE: 6 ; PIECE MOVED: QQ
+TIME TAKEN: 124 s
+
+YOUR TURN --
+PIECE TO MOVE :p4
+MOVE TO ROW :4
+MOVE TO COLUMN :3
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo P2 P3 P4 oo P6 P7 P8
+2 oo oo oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 oo oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo oo mm p6 oo p8
+7 oo oo b1 oo oo K1 oo QQ
+
+Ply count: 27
+
+
+COMPUTER --
+305-(2)  520-(1)  456-(1)  326-(1)  309-(1)  455-(1)  354-(1)  330-(1)  449-(1)  519-(1)  314-(1)  313-(1)  325-(1)  340-(1)  322-(1)  518-(1)  460-(1)  329-(1)  496-(1)  321-(1)  341-(1)  306-(0)  310-(0)  445-(0)  317-(0)  451-(-3)  446-(-3)  497-(-9)  461-(-9)  475-(-12)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo oo P3 P4 oo P6 P7 P8
+2 oo P2 oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 oo oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo oo mm p6 oo p8
+7 oo oo b1 oo oo K1 oo QQ
+
+Ply count: 28
+Nodes reached: 500502 ; Nodes reachedAB: 18611
+305-(3)  520-(-600)  456-(-600)  326-(-600)  309-(-600)  455-(-600)  354-(-600)  330-(-600)  449-(-599)  519-(-600)  314-(-600)  313-(-600)  325-(-600)  340-(-600)  322-(-600)  518-(-600)  460-(-600)  329-(-600)  496-(-600)  321-(-600)  341-(-600)  306-(-600)  310-(-600)  445-(-600)  317-(-600)  451-(-600)  446-(-600)  497-(-597)  461-(-599)  475-(-600)   END
+MOVELABEL: 305 ; MOVEVALUE: 3 ; PIECE MOVED: P2
+TIME TAKEN: 130 s
+
+YOUR TURN --
+PIECE TO MOVE :b1
+MOVE TO ROW :4
+MOVE TO COLUMN :5
+
+  0  1  2  3  4  5  6  7
+0 R1 oo B1 oo MM oo K2 R2
+1 oo oo P3 P4 oo P6 P7 P8
+2 oo P2 oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 b1 oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo oo mm p6 oo p8
+7 oo oo oo oo oo K1 oo QQ
+
+Ply count: 29
+
+
+COMPUTER --
+411-(4)  310-(2)  326-(1)  341-(1)  313-(1)  449-(1)  519-(1)  518-(1)  340-(1)  330-(1)  455-(1)  520-(1)  456-(1)  354-(1)  309-(1)  321-(1)  496-(1)  329-(1)  410-(1)  314-(1)  460-(1)  325-(1)  322-(1)  317-(0)  305-(0)  451-(-1)  445-(-1)  446-(-1)  461-(-9)  497-(-10)  475-(-12)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo oo oo MM oo K2 R2
+1 oo oo P3 P4 oo P6 P7 P8
+2 B1 P2 oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 b1 oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo oo mm p6 oo p8
+7 oo oo oo oo oo K1 oo QQ
+
+Ply count: 30
+Nodes reached: 663911 ; Nodes reachedAB: 5319
+411-(7)  310-(-600)  326-(-600)  341-(-600)  313-(-600)  449-(-599)  519-(-600)  518-(-600)  340-(-600)  330-(-600)  455-(-600)  520-(-600)  456-(-600)  354-(-600)  309-(-600)  321-(-600)  496-(-600)  329-(-600)  410-(-600)  314-(-600)  460-(-600)  325-(-600)  322-(-600)  317-(-600)  305-(-600)  451-(-600)  445-(-600)  446-(-600)  461-(-599)  497-(-597)  475-(-600)   END
+MOVELABEL: 411 ; MOVEVALUE: 7 ; PIECE MOVED: B1
+TIME TAKEN: 150 s
+
+YOUR TURN --
+PIECE TO MOVE :mm
+MOVE TO ROW :7
+MOVE TO COLUMN :4
+
+  0  1  2  3  4  5  6  7
+0 R1 oo oo oo MM oo K2 R2
+1 oo oo P3 P4 oo P6 P7 P8
+2 B1 P2 oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 b1 oo oo
+5 r1 p2 oo oo oo k2 oo oo
+6 oo oo oo oo oo p6 oo p8
+7 oo oo oo oo mm K1 oo QQ
+
+Ply count: 31
+
+
+COMPUTER --
+497-(8)  449-(5)  445-(4)  446-(3)  329-(3)  321-(3)  317-(3)  322-(2)  309-(2)  325-(2)  460-(2)  389-(2)  356-(2)  330-(2)  355-(2)  519-(2)  305-(2)  405-(2)  340-(2)  354-(2)  520-(2)  518-(2)  314-(2)  390-(2)  310-(2)  456-(2)  313-(2)  326-(1)  455-(1)  496-(1)  451-(-1)  403-(-1)  404-(-1)  406-(-4)  461-(-12)  475-(-13)   END
+
+  0  1  2  3  4  5  6  7
+0 R1 oo oo oo MM oo K2 R2
+1 oo oo P3 P4 oo P6 P7 P8
+2 B1 P2 oo oo P5 oo oo oo
+3 P1 oo oo oo oo oo oo oo
+4 p1 oo oo p4 p5 b1 oo oo
+5 r1 p2 oo oo oo QQ oo oo
+6 oo oo oo oo oo p6 oo p8
+7 oo oo oo oo mm K1 oo oo
+
+Ply count: 32
+Nodes reached: 720393 ; Nodes reachedAB: 9307
+497-(8)  449-(-599)  445-(-600)  446-(-600)  329-(-600)  321-(-600)  317-(-600)  322-(-600)  309-(-600)  325-(-600)  460-(-600)  389-(-600)  356-(-600)  330-(-600)  355-(-600)  519-(-600)  305-(-600)  405-(-600)  340-(-600)  354-(-600)  520-(-600)  518-(-600)  314-(-600)  390-(-600)  310-(-600)  456-(-600)  313-(-600)  326-(-600)  455-(-600)  496-(-600)  451-(-600)  403-(-600)  404-(-600)  406-(-600)  461-(-599)  475-(-600)   END
+MOVELABEL: 497 ; MOVEVALUE: 8 ; PIECE MOVED: QQ
+TIME TAKEN: 156 s
