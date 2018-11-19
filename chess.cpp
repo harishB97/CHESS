@@ -7,9 +7,9 @@ using namespace std;
 
 
 /*----------------------------------------------------------------------------------------------------------------------------------
-
+NOTE:
 IRRESPECTIVE OF THE SIDE(BLACK OR WHITE) HUMAN CHOOSES TO PLAY -
-INTERNALLY THE COMPUTER IS ALWAYS REFERRED AS BLACK (IN BOOLEAN AS FALSE)
+WITHIN THE CODE THE COMPUTER IS ALWAYS REFERRED AS BLACK (IN BOOLEAN AS FALSE)
 AND HUMAN IS ALWAYS REFERRED AS WHITE (IN BOOLEAN AS TRUE)
 
 ----------------------------------------------------------------------------------------------------------------------------------*/
@@ -85,6 +85,7 @@ map <int,MOVE> move;
 
 #include "underAttack.h"
 #include "checkmate.h"
+#include "stalemate.h"
 #include "defineMove.h"
 #include "shallowSearch.h"
 #include "randomize.h"
@@ -137,6 +138,11 @@ void computer()
 			cout<<endl<<"------------ COMPUTER WINS ------------ "<<endl;
 			return;
 		}
+		if(stalemate(true))
+		{
+			cout<<endl<<"------------ DRAW ------------ "<<endl;
+			return;
+		}
 		
 		human();
 }
@@ -162,6 +168,11 @@ void human()
 		if(checkmate(false))
 		{
 			cout<<endl<<" ------------ YOU WIN ------------ "<<endl;
+			return;
+		}
+		if(stalemate(false))
+		{
+			cout<<endl<<"------------ DRAW ------------ "<<endl;
 			return;
 		}
 		
@@ -426,4 +437,3 @@ int main()
 	return 0;
 	
 }
-
