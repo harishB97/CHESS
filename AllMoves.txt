@@ -28,17 +28,17 @@ Each move is represented by an integer.
 
 WHITE MOVES
 
-MOVE: 1 	    PIECE: 1 , ROW: -1 , COLUMN: 0
-MOVE: 2 	    PIECE: 1 , ROW: -2 , COLUMN: 0
-MOVE: 3 	    PIECE: 1 , ROW: -1 , COLUMN: -1
-MOVE: 4 	    PIECE: 1 , ROW: -1 , COLUMN: 1
+MOVE: 1 	PIECE: 1 , ROW: -1 , COLUMN: 0
+MOVE: 2 	PIECE: 1 , ROW: -2 , COLUMN: 0
+MOVE: 3 	PIECE: 1 , ROW: -1 , COLUMN: -1
+MOVE: 4 	PIECE: 1 , ROW: -1 , COLUMN: 1
 
-MOVE: 5 	    PIECE: 2 , ROW: -1 , COLUMN: 0
-MOVE: 6 	    PIECE: 2 , ROW: -2 , COLUMN: 0
-MOVE: 7 	    PIECE: 2 , ROW: -1 , COLUMN: -1
-MOVE: 8 	    PIECE: 2 , ROW: -1 , COLUMN: 1
+MOVE: 5 	PIECE: 2 , ROW: -1 , COLUMN: 0
+MOVE: 6 	PIECE: 2 , ROW: -2 , COLUMN: 0
+MOVE: 7 	PIECE: 2 , ROW: -1 , COLUMN: -1
+MOVE: 8 	PIECE: 2 , ROW: -1 , COLUMN: 1
 
-MOVE: 9 	    PIECE: 3 , ROW: -1 , COLUMN: 0
+MOVE: 9 	PIECE: 3 , ROW: -1 , COLUMN: 0
 MOVE: 10        PIECE: 3 , ROW: -2 , COLUMN: 0
 MOVE: 11        PIECE: 3 , ROW: -1 , COLUMN: -1
 MOVE: 12        PIECE: 3 , ROW: -1 , COLUMN: 1
