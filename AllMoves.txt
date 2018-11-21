@@ -14,8 +14,8 @@ Pieces are represented by integers.
 32 -- BLACK QUEEN
 33 -- BLACK KING
 
-chess board =>    0  1  2  3  4  5  6  7
-                0 29 30 31 32 33 34 35 36
+chess board =>   0  1  2  3  4  5  6  7
+               0 29 30 31 32 33 34 35 36
 		1 21 22 23 24 25 26 27 28
 		2 0  0  0  0  0  0  0  0
 		3 0  0  0  0  0  0  0  0 
