@@ -7,6 +7,7 @@ using namespace std;
 
 
 /*----------------------------------------------------------------------------------------------------------------------------------
+
 NOTE:
 IRRESPECTIVE OF THE SIDE(BLACK OR WHITE) HUMAN CHOOSES TO PLAY -
 WITHIN THE CODE THE COMPUTER IS ALWAYS REFERRED AS BLACK (IN BOOLEAN AS FALSE)
@@ -93,6 +94,7 @@ map <int,MOVE> move;
 #include "setToZero.h"
 #include "execute.h"
 #include "display.h"
+#include "moveIsValid.h"
 
 
 void human();
@@ -153,12 +155,48 @@ void human()
 		pair <int,int> goTo;
 		
 		cout<<endl<<"YOUR TURN -- "<<endl;
-		cout<< "PIECE TO MOVE :";
-		cin>>piece;
-		cout<<"MOVE TO ROW :";
-		cin>>goTo.first;
-		cout<<"MOVE TO COLUMN :";
-		cin>>goTo.second;
+		
+		while(1)
+		{
+			cout<< "PIECE TO MOVE :";
+			cin>>piece;
+			cout<<"MOVE TO ROW :";
+			cin>>goTo.first;
+			cout<<"MOVE TO COLUMN :";
+			cin>>goTo.second;
+			if(letterNum[piece] > 20)
+			{
+				cout<<"Cannot move enemy pieces - try again"<<endl;
+				continue;
+			}
+			
+			int a = moveIsValid(letterNum[piece],goTo);
+			if(a == 1)
+			{
+				break;
+			}
+			else if(a == -1)
+			{
+				cout<<"The piece name entered is wrong - try again"<<endl;
+			}
+			else if(a == -2)
+			{
+				cout<<"The piece is already captured - try again"<<endl;
+			}
+			else if(a == -3)
+			{
+				cout<<"The position is not within the board - try again"<<endl;
+			}
+			else if(a == -4)
+			{
+				cout<<"The entered piece can't make that move - try again"<<endl;
+			}
+			else if(a == -5)
+			{
+				cout<<"The entered move is putting king under attack - try again"<<endl;
+			}
+		}
+		
 				
 		execute(letterNum[piece],goTo);
 		display();
