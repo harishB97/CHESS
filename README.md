@@ -1,4 +1,8 @@
-
+# CHESS
+- A very basic chess engine - built for the purpose of learning.
+- Can play all basic moves.
+  Special moves like en passant, castling and pawn promotion are yet to be done.
+  
 # About the implementation
 - The program is implemented using mini-max algorithm with alpha beta pruning on top of it
 - Initially a shallow search upto a depth of 3 without alpha beta pruning is done (each ply is considered as a level in search tree, so here depth 3 means black move - white move - black move), and the order of moves is changed based on the result obtained form the shallow search.
